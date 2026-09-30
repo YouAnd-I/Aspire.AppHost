@@ -12,4 +12,8 @@
     <UserSecretsId>aspire-apphost</UserSecretsId>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Aspire.Hosting.Python" Version="13.6.0" />
+  </ItemGroup>
+
 </Project>
